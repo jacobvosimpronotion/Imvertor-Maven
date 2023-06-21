@@ -103,6 +103,16 @@
          </cs:xsdTypes>
       </cs:Construct>        
       <cs:Construct>
+         <cs:name>NITGCode</cs:name>
+         <cs:sentinel>false</cs:sentinel>
+         <cs:xsdTypes>
+            <cs:XsdType>
+               <cs:name>NITGCodeType</cs:name>
+               <cs:primitive>false</cs:primitive>
+            </cs:XsdType>
+         </cs:xsdTypes>
+      </cs:Construct>
+       <cs:Construct>
          <cs:name>Nummer2</cs:name>
          <cs:sentinel>false</cs:sentinel>
          <cs:xsdTypes>
